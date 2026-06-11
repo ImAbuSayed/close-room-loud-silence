@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/close-room-loud-silence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Close Room Loud Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-room-loud-silence/) |
+| **Get License** | [Request Licensing for Close Room Loud Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-room-loud-silence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Close the door and let the world fade out
+> Just your breath and mine in the quiet now
+> A heavy glance that speaks across the room
+> We're pulling close beneath a crescent moon
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
