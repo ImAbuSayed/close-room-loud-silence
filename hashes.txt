@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Close Room Loud Silence
+
+This log tracks the cryptographic history and versioning for the song **Close Room Loud Silence** (close-room-loud-silence).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T01:41:34.957311 | `v1` | `a66bda97e90bb21c70f6c752a86a98832ed4557cb313c430462f4cab5095d8d4` | `5b9e23e192713e6519aa82643dfdb0949f2a342aa9cae28f91d7e387220e40bd` | `2026-06-12_close-room-loud-silence-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
